@@ -59,7 +59,7 @@ function App() {
       height="100%"
       />
     </div>
-    <div className="footer"><b>CodePen - Clone</b> Design by <a href="https://www.youtube.com/watch?v=wcVxX7lu2d4">Web Dev Simplified</a> & Development by <a href="https://twitter.com/salmanahmedcse">💻<span>Salman Ahmed</span></a></div>
+    <div className="footer"><b>CodePen - Clone</b> Design by <a href="https://www.youtube.com/watch?v=wcVxX7lu2d4">Web Dev Simplified</a> & Development by <a href="https://twitter.com/salmanahmedcse"><span>Salman Ahmed</span></a></div>
 
     </>
 
